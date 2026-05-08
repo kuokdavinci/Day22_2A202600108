@@ -3,7 +3,3 @@ __pycache__/
 *.pyc
 .DS_Store
 .venv/
-data/*.json
-evidence/*.png
-evidence/*.txt
-evidence/*.json
